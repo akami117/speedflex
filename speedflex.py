@@ -24,7 +24,7 @@ def run_speed_test():
     print(f"Country: {server_info['country']}")
     print(f"Sponsor: {server_info['sponsor']}")
 
-    print("Speed test complete.")
+    print("Speed test complete!")
 
 if __name__ == "__main__":
    run_speed_test()
