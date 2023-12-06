@@ -1,4 +1,4 @@
-# Internet Speed Test Utility v8.0
+# Internet Speed Test Utility v9.0
 from speedtest import Speedtest
 
 def run_speed_test():
