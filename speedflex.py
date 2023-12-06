@@ -19,7 +19,7 @@ def run_speed_test():
     print(f"Upload Speed: {upload_speed:.2f} Mbps")
     print(f"Ping: {ping:.2f} ms")
 
-    # Display server information without the word "Server"
+    # Display server information
     print(f"Host: {server_info['host']}")
     print(f"Country: {server_info['country']}")
     print(f"Sponsor: {server_info['sponsor']}")
